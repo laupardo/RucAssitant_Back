@@ -1,3 +1,4 @@
+// laupardo: Los comentarios hacen que el código sea más fácil de entender.
 /**
  * La dependencia de express
  */
